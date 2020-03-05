@@ -1,0 +1,5 @@
+Added Component: Designator=x1(8M¾§Õñ)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=OSC_IN Pin=x1-1
+Added Pin To Net: NetName=OSC_OUT Pin=x1-2
+Added Member To Class: ClassName=Sheet3 Member=Component x1 8MHz

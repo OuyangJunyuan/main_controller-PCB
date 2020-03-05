@@ -1,0 +1,4 @@
+Change Component Comment : Designator=C7 Old Comment=C New Comment=0.1uf
+Change Component Comment : Designator=C20 Old Comment=C New Comment=0.1uf
+Change Component Designator: OldDesignator= NewDesignator=P11
+Added Member To Class: ClassName=Sheet4 Member=Component P11 Header 2
