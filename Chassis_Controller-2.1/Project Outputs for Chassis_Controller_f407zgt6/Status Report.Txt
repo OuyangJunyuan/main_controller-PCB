@@ -1,0 +1,24 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Chassis_Controller_f407zgt6.PrjPcb]
+   Generated File[lined.GTO]
+   Generated File[lined.GTP]
+   Generated File[lined.GTS]
+   Generated File[lined.GTL]
+   Generated File[lined.GBL]
+   Generated File[lined.GBS]
+   Generated File[lined.GM1]
+   Generated File[lined.GKO]
+   Generated File[lined.GPT]
+   Generated File[lined.GPB]
+   Generated File[lined.GD1]
+   Generated File[lined.GG1]
+   Generated File[lined.RUL]
+   Generated File[lined.EXTREP]
+   Generated File[lined.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 17:25:08 On 2019/9/28

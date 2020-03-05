@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=EXIT_9 Pin=P19-5
+Removed Pin From Net: NetName=EXIT_10 Pin=P19-6
+Added Pin To Net: NetName=EXIT_10 Pin=P19-5
+Added Pin To Net: NetName=EXIT_9 Pin=P19-6

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=TIM3_CH1 Pin=P2-1
+Removed Pin From Net: NetName=TIM3_CH2 Pin=P2-2
+Removed Pin From Net: NetName=TIM3_CH3 Pin=P2-3
+Removed Pin From Net: NetName=TIM3_CH4 Pin=P2-4
+Removed Pin From Net: NetName=TIM4_CH1 Pin=P2-5
+Removed Pin From Net: NetName=TIM4_CH2 Pin=P2-6
+Removed Pin From Net: NetName=TIM4_CH3 Pin=P2-7
+Removed Pin From Net: NetName=TIM4_CH4 Pin=P2-8
+Added Pin To Net: NetName=TIM4_CH1 Pin=P2-1
+Added Pin To Net: NetName=TIM4_CH2 Pin=P2-2
+Added Pin To Net: NetName=TIM4_CH3 Pin=P2-3
+Added Pin To Net: NetName=TIM4_CH4 Pin=P2-4
+Added Pin To Net: NetName=TIM3_CH1 Pin=P2-5
+Added Pin To Net: NetName=TIM3_CH2 Pin=P2-6
+Added Pin To Net: NetName=TIM3_CH3 Pin=P2-7
+Added Pin To Net: NetName=TIM3_CH4 Pin=P2-8

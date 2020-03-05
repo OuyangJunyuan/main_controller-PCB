@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\Data\Ñ§Ï°\12.RobotCon\PCB\PCBÏîÄ¿\Chassis_Controller\Chassis_Controller HW_V2.0\lined.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=8.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

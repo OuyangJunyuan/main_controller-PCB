@@ -1,5 +1,0 @@
-Added Component: Designator=R32(0603)
-Add component. Clean all parameters for all variants
-Added Pin To Net: NetName=VCC Pin=R32-1
-Added Pin To Net: NetName=VCC Pin=R32-2
-Added Member To Class: ClassName=Sheet4 Member=Component R32 0R

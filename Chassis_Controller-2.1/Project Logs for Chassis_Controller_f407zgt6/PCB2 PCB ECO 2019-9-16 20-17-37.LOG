@@ -1,0 +1,18 @@
+Added Component: Designator=P19(HDR2X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EXIT_0 Pin=P19-1
+Added Pin To Net: NetName=EXIT_1 Pin=P19-2
+Added Pin To Net: NetName=EXIT_14 Pin=P19-3
+Added Pin To Net: NetName=EXIT_7 Pin=P19-4
+Added Pin To Net: NetName=EXIT_13 Pin=P19-5
+Added Pin To Net: NetName=EXIT_12 Pin=P19-6
+Added Pin To Net: NetName=EXIT_8 Pin=P19-7
+Added Pin To Net: NetName=EXIT_11 Pin=P19-8
+Added Pin To Net: NetName=EXIT_9 Pin=P19-9
+Added Pin To Net: NetName=EXIT_10 Pin=P19-10
+Added Member To Class: ClassName=Sheet1 Member=Component P5 Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component P9 Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component P19 Header 5X2
